@@ -36,3 +36,31 @@ The most important features for predicting the price of a vehicle were the year,
 The manufacturer with the highest average price was tesla.
 
 
+## Various Plots
+
+![img.png](img.png)
+
+
+## Model Score 
+
+![img_1.png](img_1.png)
+
+## Cross Validation Score
+
+![img_2.png](img_2.png)
+
+
+## Feature Importance
+
+| Feature                | Importance    |
+|------------------------|---------------|
+| year                   | 0.00000664    |
+| type_truck             | 0.00000052    |
+| cylinders_8 cylinders  | 0.00000048    |
+| drive_4wd              | 0.00000043    |
+| manufacturer_ford      | 0.00000028    |
+| paint_color_white      | 0.00000027    |
+| fuel_diesel            | 0.00000027    |
+| condition_like new     | 0.00000017    |
+| drive_rwd              | 0.00000016    |
+| type_pickup            | 0.00000013    |
